@@ -8,5 +8,9 @@ function sapalagi(){
 
 function sapanama(){
     const nama = prompt("Masukkan nama anda");
+
+    if(nama == ""){
+        alert("Nama tidak boleh kosong");
+    }
     alert("Halo " + nama);
 }
