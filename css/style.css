@@ -2,3 +2,13 @@
     transform: scale(1.1);
     transition:  all ease 500ms;
 }
+
+#card2:hover{
+    transform: scale(1.1);
+    transition:  all ease 500ms;
+}
+
+#card3:hover{
+    transform: scale(1.1);
+    transition:  all ease 500ms;
+}
